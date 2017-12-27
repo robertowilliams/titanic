@@ -6,7 +6,9 @@ The only purpose of this research is practice knowledge related to Data Science 
 NONE OF THE INFORMATION OR DATA WAS INTENDED TO BE USED COMMERCIALLY. PLEASE RESPECT THE COPYRIGHTS INVOLVED.
 
 The information present here was based on the following sources:
+
 DATA FILES
+
 The purpose of this project is identify how the accident impact in the countries and identify the economical influence in the occurence of pasenger survival, due to lack of safety structure in the vessel.
 
 To do so was necessary create a new dateset with complete passenger's dataset, correct information like age, official name and coutry of residence were consulted photocopies of original passenger's list, datasets and passenger's biography.
@@ -14,9 +16,11 @@ To do so was necessary create a new dateset with complete passenger's dataset, c
 Below is indicated each resource and the data collected or consulted.
 
 BASIC DATASET
+
 Was used to create this project the following Titanic Dataset as a base dataset extracted from the Github account of the book "Efficient Amazon Machine Learning", published by Packt. https://github.com/alexisperrier/packt-aml/blob/master/ch4/original_titanic.csv
 
 DATASET EXTENSION
+
 In order to populate with the most correct data values the following data sources were consulted:
 
 1.UK, RMS Titanic, Outward Passenger List, 1912. 
